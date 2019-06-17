@@ -1,3 +1,3 @@
-# age_calculator
+# AgeCalculator
 
 A new Flutter project.
